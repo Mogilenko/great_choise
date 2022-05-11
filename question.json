@@ -1,0 +1,28 @@
+[
+  {
+    "question": "Цвет ёлки",
+    "right_answer": "Зелёная",
+    "wrong1": "Чёрная",
+    "wrong2" : "Синия",
+    "wrong3" : "Жёлтая"
+  },
+  {"question": "Государственный язык Бразилии",
+    "right_answer": "Португальский",
+    "wrong1": "Бразильский",
+    "wrong2" : "Английский",
+    "wrong3" : "Испанский"
+  },
+  {"question": "Какой национальности не существует",
+    "right_answer": "Смурфы",
+    "wrong1": "Чулымцы",
+    "wrong2" : "Энцы",
+    "wrong3" : "Алеуты"
+  },
+  {"question": "Лучший герой игры Dota 2",
+    "right_answer": "Pudge",
+    "wrong1": "Shadow Fiend",
+    "wrong2" : "Enigma",
+    "wrong3" : "Боби"
+  }
+
+]
