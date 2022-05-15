@@ -9,7 +9,7 @@
 ---
 
 ### _Технологии_
--[Python 3.9](https://www.python.org/downloads/release/python-390/)
+-[Python 3.8](https://www.python.org/downloads/release/python-380/)
 
 -[PyQt5 5.15.6](https://pypi.org/project/PyQt5/)
 
